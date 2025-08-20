@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SchoolAPIGateway
+build_property.ProjectDir = F:\MicroService\test\SchoolManagementSystem\SchoolAPIGateway\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
